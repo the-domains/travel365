@@ -1,0 +1,14 @@
+layout_spectrum: 0.588536
+typography_spectrum: 0.3104386
+color:
+  saturation: 0.07038596
+  lightness: 0.9998631
+  brandStrength: 0.3095742
+  rhythmicContrast: 0.1387471
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Travel365
